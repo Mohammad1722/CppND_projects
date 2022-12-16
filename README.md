@@ -11,9 +11,10 @@ This repo contains my solutions for the projects in [Udacity's C++ Nanodegree](h
 5. [Snake Game (Capstone Project)](/5.%20Capstone%20(Snake%20Game)/)
 
 
-## Graduation Certificate
+<details><summary>Graduation Certificate</summary>
+
 [![Certificate](https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/b22175ab-b1cd-4a02-9933-b46d1d2b38a3.svg)](https://graduation.udacity.com/confirm/C7TK5GPJ)
 
-
-
 Certificate Link: https://graduation.udacity.com/confirm/C7TK5GPJ
+
+</details>
